@@ -17,7 +17,7 @@ Languages used: arduino, C++ and C#.
 Inertial Measurment Units (IMUs), measuring linear and angular acceleration were used to capture finger rotation, while an HTC Vive tracker was used to capture the position of the arm in space.
 
 <p align="center">
-  <img src="https://github.com/varouzan/Senior-Project-2018-Force-Feedback-Glove/blob/master/tracking_methods.png">
+  <img src="https://github.com/varouzan/Senior-Project-2018-Force-Feedback-Glove/blob/master/tracking_methods.PNG">
 </p>
 
 An electroadhisive clutch was used to provide a breaking force on the finger and thus provide force feedback to the user.
