@@ -14,7 +14,7 @@ Environments used: mbed and Unity
 
 Languages used: arduino, C++ and C#. 
 
-Inertial Measurment Units (IMUs), measuring linear and angular acceleration were used to capture finger movement, while an HTC Vive tracker was used to capture the position of the arm in space.
+Inertial Measurment Units (IMUs), measuring linear and angular acceleration were used to capture finger rotation, while an HTC Vive tracker was used to capture the position of the arm in space.
 
 An electroadhisive clutch was used to provide a breaking force on the finger and thus provide force feedback to the user.
 
